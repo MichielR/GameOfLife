@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain;
-
+//Comment to push new data to github
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
